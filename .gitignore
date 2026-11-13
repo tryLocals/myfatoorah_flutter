@@ -1,0 +1,13 @@
+.DS_Store
+.dart_tool/
+.packages
+build/
+pubspec.lock
+
+# Android
+android/.gradle
+android/local.properties
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
